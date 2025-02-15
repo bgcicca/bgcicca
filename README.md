@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+<h1 align="center">Hi 👋, I'm Bruno Ciccarino</h1>
+<h3 align="center">A passionate backend developer from Brasil</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bgcicca&label=Profile%20views&color=0e75b6&style=flat" alt="bgcicca" /> </p>
+
+- 🔭 I’m currently working on [fastvim](https://github.com/fastvim/fastvim)
+- 🌱 I’m currently learning **rust, java and bash**
+- 📝 I regularly write articles on [ciccabruno.dev](https://bgcicca.github.io/)
+- 📫 How to reach me **brunociccarinoo@gmail.com**
+
 <!--
 **bgcicca/bgcicca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
