@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [fastvim](https://github.com/fastvim/fastvim)
 - 🌱 I’m currently learning **rust, java and bash**
-- 📝 I regularly write articles on [ciccabruno.dev](https://bgcicca.github.io/)
+- 📝 I regularly write articles on [bgcicca.com.br](https://www.bgcicca.com.br)
 - 📫 How to reach me **brunociccarinoo@gmail.com**
 
 [![card](https://github-readme-stats.vercel.app/api?username=bgcicca&theme=dracula)](https://www.bgcicca.com.br)
