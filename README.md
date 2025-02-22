@@ -8,7 +8,8 @@
 - 📝 I regularly write articles on [ciccabruno.dev](https://bgcicca.github.io/)
 - 📫 How to reach me **brunociccarinoo@gmail.com**
 
-[![bgcicca](https://github-readme-stats.vercel.app/api/top-langs/?username=bgcicca&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=bgcicca&theme=dracula)](https://www.bgcicca.com.br)
+[![bgcicca](https://github-readme-stats.vercel.app/api/top-langs/?username=bgcicca&hide=html&layout=compact&theme=dracula)](https://www.bgcicca.com.br)
 
 <!--
 **bgcicca/bgcicca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
