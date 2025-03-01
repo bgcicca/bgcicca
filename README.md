@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bgcicca&label=Profile%20views&color=0e75b6&style=flat" alt="bgcicca" /> </p>
 
 - 🔭 I’m currently working on [fastvim](https://github.com/fastvim/fastvim)
-- 🌱 I’m currently learning **rust, java and bash**
+- 🌱 I’m currently learning **lisp, java and bash**
 - 📝 I regularly write articles on [bgcicca.com.br](https://www.bgcicca.com.br)
 - 📫 How to reach me **brunociccarinoo@gmail.com**
 
