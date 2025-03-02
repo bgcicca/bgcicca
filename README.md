@@ -3,7 +3,7 @@
 
 <details>
   <summary>
-    consider becoming a sponsor
+    Please consider sponsoring my work.  Thank you!
   </summary>
   <div align="center"> 
 
