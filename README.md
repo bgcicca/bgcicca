@@ -13,3 +13,9 @@
 </div>
 </details>
 
+<details>
+  <summary>
+    Check out some of my posts here:
+  </summary>
+  ![The Origins of car and cdr in Lisp](https://www.bgcicca.com.br/posts/2025-03-02.html)
+</details>
