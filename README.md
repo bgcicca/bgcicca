@@ -17,6 +17,7 @@
   <summary>
     Check out some of my posts here:
   </summary>
+  
   ![Under the Hood of Lists - A Low-Level Exploration of Cons Cells in Lisp](https://www.bgcicca.com.br/posts/2025-03-03.html)
   ![The Origins of car and cdr in Lisp](https://www.bgcicca.com.br/posts/2025-03-02.html)
 </details>
