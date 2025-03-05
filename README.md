@@ -25,8 +25,7 @@
   <summary>
     contact
   </summary>
-  
-  [email](bgcicca@proton.me)<br>
-  [matrix](https://@cicca:matrix.org)<br>
-  [telegram](https://t.me/bgcicca)
+  Email: bgcicca@proton.me<br>
+  Matrix: @cicca:matrix.org<br>
+  Telegram: @bgcicca
 </details>
