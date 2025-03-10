@@ -18,6 +18,7 @@
     Check out some of my posts here:
   </summary>
   
+  [Emacs - A 49-Year Odyssey of Innovation, Freedom, and Community](https://www.bgcicca.com.br/posts/2025-03-07.html)<br>
   [Under the Hood of Lists - A Low-Level Exploration of Cons Cells in Lisp](https://www.bgcicca.com.br/posts/2025-03-03.html)</br>
   [The Origins of car and cdr in Lisp](https://www.bgcicca.com.br/posts/2025-03-02.html)
 </details>
