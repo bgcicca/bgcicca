@@ -30,3 +30,22 @@
   Matrix: @cicca:matrix.org<br>
   Telegram: @bgcicca
 </details>
+
+
+   <p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="150" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=thebigcicca&show_icons=true&theme=dracula&include_all_commits=true" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="150" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=thebigcicca&theme=dracula&layout=compact&langs_count=9" 
+  />
+
+</p>
